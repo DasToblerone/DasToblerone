@@ -31,7 +31,7 @@ I'm a student who builds software and games as a hobby. I like making tools that
 
 ## Contact
 
-💬 [Discord](https://discord.com/users/915847489398140938)
+![Discord User](https://dcbadge.limes.pink/api/shield/915847489398140938)
 
 <div align="center">
 
