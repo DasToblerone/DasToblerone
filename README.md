@@ -10,6 +10,10 @@
 </div>
 
 
+## What I do
+
+- Minecraft plugins
+
 ## Contact
 
 ![Discord User](https://dcbadge.limes.pink/api/shield/915847489398140938)
