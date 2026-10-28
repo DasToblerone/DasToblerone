@@ -21,12 +21,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DasToblerone&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DasToblerone&show_icons=true&hide_border=true" alt="GitHub stats for DasToblerone">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DasToblerone&theme=radical">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DasToblerone&theme=default" alt="GitHub stats for DasToblerone">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DasToblerone&layout=compact&theme=radical&hide_border=true&bg_color=0d1117">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasToblerone&layout=compact&hide_border=true" alt="Most used languages of DasToblerone">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DasToblerone&theme=radical">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DasToblerone&theme=default" alt="Most used languages of DasToblerone">
 </picture>
 
 </div>
