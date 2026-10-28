@@ -12,7 +12,8 @@
 
 ## What I do
 
-- Minecraft plugins
+- Learning to build Minecraft plugins with Paper
+- Soon starting a Minecraft stats plugin that runs a web server and shows stat leaderboards
 
 ## Contact
 
